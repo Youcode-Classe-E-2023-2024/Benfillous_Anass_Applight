@@ -8,7 +8,6 @@
 ## Table of Contents
 
 - [About](#about)
-- [Features](#features)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -18,12 +17,6 @@
 This repository contains the source code for Applight, a web application developed by Anass Benfillous. Applight is a [description of your application].
 
 You can access the live demo of Applight [here](https://youcode-classe-e-2023-2024.github.io/Benfillous_Anass_Applight/).
-
-## Features
-
-- [Feature 1]: Describe feature 1 briefly.
-- [Feature 2]: Describe feature 2 briefly.
-- [Feature 3]: Describe feature 3 briefly.
 
 ## Getting Started
 
