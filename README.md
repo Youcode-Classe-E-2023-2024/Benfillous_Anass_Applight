@@ -5,7 +5,8 @@
 ![GitHub stars](https://img.shields.io/github/stars/Youcode-Classe-E-2023-2024/Benfillous_Anass_Applight)
 ![GitHub license](https://img.shields.io/github/license/Youcode-Classe-E-2023-2024/Benfillous_Anass_Applight)
 
-![Applight (1)](https://github.com/Youcode-Classe-E-2023-2024/Benfillous_Anass_Applight/assets/109225791/307a07f6-c244-4cd7-a0de-30bc69c6dc61)
+![Applight (2)](https://github.com/Youcode-Classe-E-2023-2024/Benfillous_Anass_Applight/assets/109225791/c7966335-0e4d-4b05-a287-20e1255c3c50)
+
 
 
 ## Table of Contents
