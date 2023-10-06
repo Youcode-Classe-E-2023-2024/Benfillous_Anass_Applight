@@ -22,8 +22,7 @@ You can access the live demo of Applight [here](https://youcode-classe-e-2023-20
 
 To get started with Applight locally, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/Youcode-Classe-E-2023-2024/Benfillous_Anass_Applight.git`
-2. [Additional setup instructions if any]
+Clone this repository: `git clone https://github.com/Youcode-Classe-E-2023-2024/Benfillous_Anass_Applight.git`
 
 ## Usage
 
@@ -38,6 +37,3 @@ Contributions are welcome! If you'd like to contribute to Applight, please follo
 3. Commit your changes: `git commit -m 'Add a new feature'`
 4. Push your branch: `git push origin feature/your-feature-name`
 5. Create a pull request on GitHub.
-
-Please follow our [Code of Conduct](CODE_OF_CONDUCT.md) when contributing.
-
