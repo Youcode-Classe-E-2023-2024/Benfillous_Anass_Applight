@@ -608,3 +608,7 @@ h3 {
 	font-size: 10px;
 }
 }
+
+.about, .contact, .feature, .banner {
+	padding-top: 140px;
+}
