@@ -612,3 +612,7 @@ h3 {
 .about, .contact, .feature, .banner, .faq {
 	padding-top: 140px;
 }
+
+.newActive {
+	color: #000000;
+}
